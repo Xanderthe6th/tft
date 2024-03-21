@@ -1,0 +1,19 @@
+h1{text-align: center;
+    color: rgb(105, 40, 40);
+    font-size: 3em;
+    font-weight: bolder;
+
+
+
+}
+h2{text-align: center;
+color: rgb(105, 50, 50);
+font-size: 2em;
+}
+table{text-align: center;
+    border-spacing: 6px;
+
+}
+body{padding: 8px 8px ;
+}
+img {width: 500px;}
